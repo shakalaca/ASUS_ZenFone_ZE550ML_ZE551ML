@@ -67,3 +67,6 @@ CONFIG_ASUS_FACTORY_MODE=n
 #NFC driver
 CONFIG_NFC=n
 CONFIG_BCM_2079x=n
+
+#Modem AP Coredump driver
+CONFIG_MDM_APCDMP=y
